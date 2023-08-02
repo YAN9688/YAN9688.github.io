@@ -32,5 +32,5 @@ permalink: /
 {: .fs-9 }
 Yan9's git Description
 {: .fs-6 .fw-300 }
-[View it on GitHub](https://github.com/Yan9){: .btn .fs-5 .mb-4 .mb-md-0 }
+[View it on GitHub](https://github.com/Yan9688){: .btn .fs-5 .mb-4 .mb-md-0 }
 
